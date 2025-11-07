@@ -25,7 +25,6 @@ I specialize in **data pipelines, process automation, and AWS integration** — 
 
 ### 🌐 Connect with me
 [💼 LinkedIn](https://www.linkedin.com/in/aldo-borghes/)  
-[💻 GitHub Projects](https://github.com/aldoborghes-hub)
 
 ---
 
